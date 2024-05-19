@@ -1,2 +1,2 @@
 Forums
-- Create anonymous forums, add topics and chat.
+- Create forums, add topics and chat.
